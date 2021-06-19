@@ -1,34 +1,34 @@
 .card {
-    border: red solid 1px;
-    border-radius: 10px;
-    padding: 10pt 0;
-    margin: 5pt;
+  border: red solid 1px;
+  border-radius: 10px;
+  padding: 10pt 0;
+  margin: 5pt;
 }
 
 .card-title {
-    display:inline-block;
-    margin-top: 0;
-    padding: 5px;
+  display: inline-block;
+  margin-top: 0;
+  padding: 5px;
 }
 
 img {
-    width: 95vw;
+  width: 95vw;
 }
 
 .btn {
-    background-color: #000000;
-    border-radius: 10px;
-    color:#faebd7;
-    padding: 10px;
-    width: 100%;
+  background-color: #000000;
+  border-radius: 10px;
+  color: #faebd7;
+  padding: 10px;
+  width: 100%;
 }
 
 .price-label {
-    text-align: center;
-    font-weight: 600;
+  text-align: center;
+  font-weight: 600;
 }
 
 .card-content {
-    padding: 0 10pt;
-    text-align: justify;
+  padding: 0 10pt;
+  text-align: justify;
 }
